@@ -8,3 +8,10 @@ Focusing Questions:
 - Is there a correlation between GDP and life expectancy of a country?
 - What is the average life expactancy in these nations?
 - What is the distribution of that life expectancy?
+
+The dataset provided has the following columns of data:
+
+- Country - nation
+- Year - the year for the observation
+- Life expectancy at birth (years) - life expectancy value in years
+- GDP - Gross Domestic Product in U.S. dollars
